@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.2aa0ccba-58d7-42a7-9973-74bfcbc7fd74.png" alt="Vatsala Pushkar Banner" />
-</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Vatsala Pushkar</h1>
